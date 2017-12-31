@@ -22,7 +22,7 @@ Or install it yourself as:
 
 Add copyright:
 
-`<%= @copyright %>`
+`AOBViewTool::Renderer.copyright 'Andre O. Brown', "All rights reserved"`
 
 ## Development
 
