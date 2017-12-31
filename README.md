@@ -22,7 +22,9 @@ Or install it yourself as:
 
 Add copyright:
 
-`AOBViewTool::Renderer.copyright 'Andre O. Brown', "All rights reserved"`
+```ruby
+AOBViewTool::Renderer.copyright 'Andre O. Brown', "All rights reserved"
+```
 
 ## Development
 
